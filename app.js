@@ -1,3 +1,3 @@
 document.getElementById("applystyle").addEventListener("click" ,function(){
-        document.getElementById("applystyle").style.color = "white";
+        document.getElementById("applystyle").style.color = "green";
     }) 
